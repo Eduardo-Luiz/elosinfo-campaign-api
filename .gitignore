@@ -1,0 +1,9 @@
+/target/
+/.project
+/.settings/
+/.classpath
+/.gitignore
+/HELP.md
+/mvnw
+/mvnw.cmd
+/.DS_Store
