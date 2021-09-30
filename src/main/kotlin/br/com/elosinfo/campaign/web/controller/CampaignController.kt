@@ -11,6 +11,6 @@ import org.springframework.web.bind.annotation.RestController
 class CampaignController {
     @GetMapping("/")
     fun hello(): ResponseEntity<String> {
-        return ResponseEntity.status(HttpStatus.OK).body("Olá mundo REST!")
+        return ResponseEntity.status(HttpStatus.OK).body("Olá mundo REST, começando os trabalhos!")
     }
 }
